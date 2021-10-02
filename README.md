@@ -9,7 +9,11 @@ I love helping people become the best engineer they can be. What I'm currently d
 I'm based in California and always open to meeting people working on interesting things. 
 
 📹  [YouTube](https://www.youtube.com/c/RahulPandeyRkp)
+
 📝  [LinkedIn](https://www.linkedin.com/in/rpandey1234/) 
+
 🐦  [Twitter](https://twitter.com/rpandey1234) 
+
 📸  [Instagram](https://www.instagram.com/rpandey1234/)
+
 📂  [Github](https://github.com/rpandey1234/)
