@@ -1,6 +1,6 @@
 ### Hi there 😇
 
-I'm the cofounder of [Taro](https://jointaro.com/), a rockstar career mentor in your pocket. Taro is a collection of that from engineers and managers at the top tech companies. helping people become the best engineer they can be. 
+I'm the cofounder of [Taro](https://jointaro.com/), a rockstar career mentor in your pocket. Taro is a collection of the best wisdom from engineers and managers at the top tech companies. The question we asked was simple: "What do we wish we knew earlier in our careers?" 
 
 What I'm currently working on: 
 - Building [Taro](https://jointaro.com/) to be the premier destination for career growth.
